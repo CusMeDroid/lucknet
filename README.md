@@ -1,1 +1,1 @@
-# lucknet
+# LuckNet
