@@ -9,8 +9,7 @@ Internet Of Things (IoT) proyek dengan data realtime firebase. Mengatur relay, m
   2. RelayKeys
   3. LCDI2C
   4. TDS
-  5. DS18B20
-  6. DHT11
+  5. DHT11
 ```
 
 # Firebase
