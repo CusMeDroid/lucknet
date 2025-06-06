@@ -20,6 +20,9 @@ Internet Of Things (IoT) proyek dengan data realtime firebase. Mengatur relay, m
   - Web App
 ```
 
+# Firemware
+- [LuckNet v1.0s](https://github.com/CusMeDroid/lucknet/archive/refs/tags/v1.0s.zip)
+
 # Pasang
 ```
   Flash
