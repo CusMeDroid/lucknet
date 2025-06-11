@@ -20,7 +20,7 @@ Internet Of Things (IoT) proyek dengan data realtime firebase. Mengatur relay, m
 ```
 
 # Firmware
-- [LuckNet v1.1b](https://github.com/CusMeDroid/lucknet/archive/refs/tags/v1.1b.zip)
+- [LuckNet v1.1a](https://github.com/CusMeDroid/lucknet/archive/refs/tags/v1.1a.zip)
 
 # Pasang
 ```
