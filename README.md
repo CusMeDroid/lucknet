@@ -40,7 +40,7 @@ Internet Of Things (IoT) proyek dengan data realtime firebase. Mengatur relay, m
 ```
 
 # Aplikasi & Lokal
-- [LuckNet](https://luck-net.web.app)
+- [LuckNet](https://lucknet.site)
 
 [<img alt="LuckNet Pairing App" title="LuckNet Pairing App" width="80%" src="https://raw.githubusercontent.com/CusMeDroid/lucknet/refs/heads/main/pairing.jpg" />](https://raw.githubusercontent.com/CusMeDroid/lucknet/refs/heads/main/pairing.jpg)
 
