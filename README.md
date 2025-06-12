@@ -1,4 +1,4 @@
-# LuckNet
+# Firebase IoT
 Internet Of Things (IoT) proyek dengan data realtime firebase. Mengatur relay, mendapatkan informasi udara (%), suhu (C) & ppm (Zat)
 
 [<img alt="LuckNet Reference Board Manage" title="LuckNet Reference Board Manage" width="50%" src="https://raw.githubusercontent.com/CusMeDroid/lucknet/refs/heads/main/lucknet_install.png" />](https://raw.githubusercontent.com/CusMeDroid/lucknet/refs/heads/main/lucknet_install.png)
