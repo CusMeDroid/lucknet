@@ -20,11 +20,12 @@ Internet Of Things (IoT) proyek dengan data realtime firebase. Mengatur relay, m
 ```
 
 # Firmware
-- [LuckNet v1.1a](https://github.com/CusMeDroid/lucknet/archive/refs/tags/v1.1a.zip)
+- [LuckNet v1.2r](https://github.com/CusMeDroid/lucknet/archive/refs/tags/v1.2r.zip)
 
 # Pasang
 ```
   Flash
+  Buka esp8266flasher.exe
   ----------------------------
   Advanced
   115200
