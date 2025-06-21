@@ -21,7 +21,7 @@ Internet Of Things (IoT) proyek dengan data realtime firebase. Mengatur relay, m
 
 # Firmware
 - [LuckNet v1.2r](https://github.com/CusMeDroid/lucknet/archive/refs/tags/v1.2r.zip) Fitur kontrol hanya aplikasi (online)
-- [Premium](https://wa.me/628511254956) Fitur kontrol di portal mode dan aplikasi (online)
+- [Premium](mailto:iyortml@gmail.com) Fitur kontrol di portal mode dan aplikasi (online)
 
 # Pasang
 ```
